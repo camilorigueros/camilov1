@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"registerForm"
+			],
+			[
+				"_",
+				"_integranteService"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"no",
+				"node_modules"
+			],
+			[
+				"jquery",
+				"jquery-dotdotdot"
+			],
+			[
+				"Ace",
+				"Access-Control-Allow-Headers"
+			],
+			[
+				"body",
+				"bodyParse"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"to",
+				"padding-top"
+			],
+			[
+				"b",
+				"bootstrap"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/components/login/login.component.ts",
+			"settings":
+			{
+				"buffer_size": 1675,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/curso angular/curso-Avanzado-Angular-BackEnd/models/integrante.js",
+			"settings":
+			{
+				"buffer_size": 280,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/components/login/login.component.html",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/curso angular/curso-Avanzado-Angular-BackEnd/controllers/integrante.js",
+			"settings":
+			{
+				"buffer_size": 1875,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/controllers",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/middleware",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/models",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/routes",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/service"
+	],
+	"file_history":
+	[
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/controllers/integrante.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/models/message.js",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/registro/register.component.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/login/login.component.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/servicios/integrante.service.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/models/util.ts",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/models/integrante.js",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/registro/register.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/models/integrante.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/servicios/global.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/app.module.ts",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/index.js",
+		"/E/curso angular/curso-Avanzado-Angular/src/index.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/login/login.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/app.routing.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/assets/style.css",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/app.component.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/Home/home.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/ingresos/ingresos.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/angular-cli.json",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/models/gasto.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/middleware/authenticated.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/middleware/is_admin.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/routes/integrante.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/app.js",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/Home/home.component.html",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/models/tipoGasto.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/service/jwt.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/integrante.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/gasto.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/tipoGasto.js",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/node_modules/gasto",
+		"/E/curso angular/curso-Avanzado-Angular-BackEnd/package.json",
+		"/E/curso angular/curso-Avanzado-Angular/package.json",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/ingresos/ingresos.component.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/compras/compras.component.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/app.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/compras/compras.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/compras/compras.components.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/compras/compras.components.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/gastos/gastos.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/gastos/gastos.component.html",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/components/gatos/gastos.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/gatos/gastos.component.ts",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/app.component.css",
+		"/E/curso angular/curso-Avanzado-Angular/src/app/app.component.spec.ts",
+		"/E/curso angular/curso-Avanzado-Angular/ProyectoCursoAngular.sublime-project"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"status",
+			"_i",
+			"\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/components/login/login.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 437.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/curso angular/curso-Avanzado-Angular-BackEnd/models/integrante.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/components/login/login.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/curso angular/curso-Avanzado-Angular-BackEnd/controllers/integrante.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1716,
+								1716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1002.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ProyectoCursoAngular.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 215.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"active"
+			]
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
