@@ -1,0 +1,33 @@
+<div>
+<h1>{{title}}</h1>
+
+
+	<div class="alert alert-success" *ngIf="status == 'success'">
+		Registro completado correctamente,<a [routerLink]="['/login']">idenificate aqui</a>
+	</div>
+	<form #registerForm="ngForm" (ngSubmit)="onSubmit(registerForm)" class="col-lg-7">
+		<p>
+			<label>Nombre</label>
+			<input type="text" name="nombre" #nombre="ngModel" [(ngModel)]="integrante.nombre" class="form-control" required> 
+			<span *ngIf="!nombre.valid && nombre.touched">El nombre es obligatorio</span>
+		</p>
+		<p>
+			<label>Ingresos</label>
+			<input type="text" name="ingresos" #ingresos="ngModel" [(ngModel)]="integrante.ingresos"  class="form-control" required> 
+
+			<span *ngIf="!ingresos.valid && ingresos.touched">Los Ingresos son obligatorio</span>
+		</p>
+		<p>
+			<label>Edad</label>
+			<input type="text" name="edad"  #edad="ngModel" [(ngModel)]="integrante.edad"  class="form-control" required>
+			<span *ngIf="!edad.valid && edad.touched">La edad es obligatoria</span>
+		</p>
+		<p>
+			<label>Rol</label>
+			<input type="text" name="rol" #rol="ngModel" [(ngModel)]="integrante.rol" class="form-control" required> 
+			<span *ngIf="!rol.valid && rol.touched">El rol es obligatorio</span>
+		</p>
+		<input type="submit" value="{{title}}" class="" class="btn btn-primary" [disabled]="!registerForm.form.valid">
+	</form>
+
+</div>
