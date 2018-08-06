@@ -1,0 +1,62 @@
+
+<div class="navigation col-lg-12">
+	<nav class="navbar navbar-inverse" role="navigation">
+	  <div class="navbar-header">
+		<button type="button" class="navbar-toggle" 	data-toggle="collapse"
+            data-target=".navbar-ex1-collapse">
+	      <span class="sr-only">Desplegar navegación</span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+    	</button>
+
+	    <a [routerLink] = "['/home']" [routerLinkActive]="['active']" class="navbar-brand">
+	    	<span class="glyphicon glyphicon-home"></span>
+	    {{title}}</a>
+	  </div>
+	 <!-- Agrupar los enlaces de navegación, los formularios y cualquier
+       otro elemento que se pueda ocultar al minimizar la barra -->
+	  <div class="collapse navbar-collapse navbar-ex1-collapse">
+	    <ul class="nav navbar-nav">
+	      <li>
+	      	<a [routerLink]="['/gastos']" [routerLinkActive]="['active']">
+	      	<span class="glyphicon glyphicon-usd"></span>
+	      	Gastos</a>
+	      </li>
+	      <li>
+	      	<a [routerLink]="['/ingresos']" [routerLinkActive]="['active']">
+			<span class="glyphicon glyphicon-piggy-bank"></span>
+	      	Ingresos</a>
+	      </li>
+	      <li>
+	      	<a [routerLink]="['/compras']" [routerLinkActive]="['active']">
+	      		<span class="glyphicon glyphicon-shopping-cart"></span>
+	      		Compras
+	      	</a>
+	      </li>
+	    </ul>
+	    <ul class="nav navbar-nav navbar-right">
+	    	<li>
+	    		<a [routerLink]="['/registro']" [routerLinkActive]="['active']">
+	    			<span class="glyphicon glyphicon-user">
+	    				Registro
+	    			</span>
+	    		</a>
+	    	</li>
+	    	<li>
+	    		<a [routerLink]="['/login']" [routerLinkActive]="['active']">
+	    			<span class="glyphicon glyphicon-log-in">
+	    				Login
+	    			</span>
+	    		</a>
+	    	</li>
+	    </ul>
+	 </div>
+	</nav>
+</div>
+
+
+
+<div class="col-lg-11">
+	<router-outlet></router-outlet>
+</div>
